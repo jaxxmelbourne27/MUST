@@ -1,0 +1,34 @@
+/* Navigation Bar */
+
+ul.nav {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(208, 208, 208);
+  overflow: hidden;
+  list-style-type: none;
+  top: 0;
+}
+
+li.nav {
+  float: left;
+  background-color: rgb(185, 185, 185);
+}
+
+li a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  padding: 15px;
+}
+
+li a:hover {
+  background-color: rgb(100, 100, 100);
+  color: white;
+  transition: 0.5s;
+}
+
+#navbutton {
+  font-size: 25px;
+  width: 100%;
+}

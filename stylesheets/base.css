@@ -1,0 +1,34 @@
+body {
+  background: #ffffff;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+/* Fonts */
+
+.shead {
+  font-family: 'Abril Fatface', serif;
+}
+
+.sbody {
+  font-family: 'Playfair Display', serif;
+}
+
+.sshead {
+  font-family: 'Oswald', sans-serif;
+}
+
+.ssbody {
+  font-family: 'Roboto', sans-serif;
+}
+
+.code {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background: rgb(205, 205, 205);
+  color: black;
+  opacity: 95%;
+  font-family: 'Oxygen Mono', monospace;
+}

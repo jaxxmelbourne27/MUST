@@ -1,0 +1,32 @@
+@media only screen and (max-width: 600px) {
+  .lcol2 {
+    float: center;
+    width: 100%;
+  }
+
+  .rcol2 {
+    padding-left: 0%;
+    float: center;
+    width: 100%;
+  }
+
+  .lcol3 {
+    float: center;
+    width: 100%;
+  }
+
+  .ccol3 {
+    float: center;
+    width: 100%;
+  }
+
+  .rcol3 {
+    float: center;
+    width: 100%;
+    padding-left: 0%;
+  }
+  ul.nav li.navsect,
+  ul.nav li {
+    float: none;
+  }
+}

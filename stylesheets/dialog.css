@@ -1,0 +1,35 @@
+/* Dialog */
+
+.fixed {
+  position: fixed;
+}
+
+#dialog {
+  margin: 5px;
+  padding: 25px;
+  border-radius: 5px;
+  background: white;
+  color: black;
+  opacity: 95%;
+  box-shadow: 5px 5px 10px grey;
+  border: 1px solid black;
+  width: inherit;
+  width: 91%;
+}
+
+#dbutton {
+  width: inherit;
+  height: inherit;
+  font-size: inherit;
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+#dbutton:hover {
+  transition: 0.75s;
+  background-color: rgb(200, 200, 200);
+  border-radius: 5px;
+}
