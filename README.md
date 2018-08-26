@@ -47,10 +47,8 @@ MUST (minimalist user-friendly stylesheet template) is designed to help people c
 
 - *#dbutton* - button to close dialog
 
-- *dialog* - use a new dialog box
+- *#dialog* - use a new dialog box
 
 ## Notes
 
-MUST is currently in development. If you would like to suggest any ideas, please tell us at...
-
-jaxxmelbourne@outlook.com
+MUST is currently in development. If you would like to suggest any ideas, please tell us at jaxxmelbourne@outlook.com
